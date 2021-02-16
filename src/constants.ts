@@ -10,7 +10,8 @@ export enum ChainId {
   GÖRLI = 5,
   KOVAN = 42,
   BSC_MAINNET = 56,
-  BSC_TESTNET = 97
+  BSC_TESTNET = 97,
+  HARMONY_SHARD_0 = 1666600000,
 }
 
 export enum TradeType {
