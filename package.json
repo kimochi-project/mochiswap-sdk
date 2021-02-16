@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/henrydapp/bscex-sdk.git"
+    "url": "git+https://github.com/kimochi-project/mochiswap-sdk.git"
   },
   "keywords": [
     "uniswap",
